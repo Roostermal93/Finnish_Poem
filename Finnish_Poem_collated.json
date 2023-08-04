@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ed8dd151-6a19-47a6-a70f-7f788f23633f",
+            "collectionId": "Finnish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Finnish/ed8dd151-6a19-47a6-a70f-7f788f23633f_fi_Female.mp4"
+        },
+        {
+            "id": "ea3508bb-2456-49ad-8b96-5754b2bded64",
+            "collectionId": "Finnish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Finnish/ea3508bb-2456-49ad-8b96-5754b2bded64_fi_Male.mp4"
+        },
+        {
+            "id": "48b0f506-ec46-48fa-94c7-84b7f94bd75d",
+            "collectionId": "Finnish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Finnish/48b0f506-ec46-48fa-94c7-84b7f94bd75d_fi_Female.mp4"
+        },
+        {
+            "id": "d1d6d294-e0b4-4930-a6a1-e04064d5b4ab",
+            "collectionId": "Finnish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Finnish/d1d6d294-e0b4-4930-a6a1-e04064d5b4ab_fi_Male.mp4"
+        },
+        {
+            "id": "6dcbd64f-c153-4a84-8393-62bdf9ad3a35",
+            "collectionId": "Finnish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Finnish/6dcbd64f-c153-4a84-8393-62bdf9ad3a35_fi_Male.mp4"
+        }
+    ]
+}
